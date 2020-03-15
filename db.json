@@ -14,7 +14,7 @@
   "events":[
      { "id": 1, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", "color": "Orange", "price": "5000", "number": "8"},
      { "id": 2, "debut": "01-05-2020", "fin": "24-05-2020", "vente": "03-05-2020", "color": "Blue", "price": "500", "number": "4"},
-     { "id": 3, "debut": "01-05-2020", "fin": "24-05-2020", "vente": "03-05-2020", "color": "Blue", "price": "1000", "number": "4"}
+     { "id": 3, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", "color": "Orange", "price": "5000", "number": "8"}
 
   ]  
 }
