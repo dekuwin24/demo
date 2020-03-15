@@ -11,8 +11,8 @@
   "profile": {
     "name": "typicode"
   },
-  "event":[
-    { "id": 1, "body": "some comment", "if": 1 },
-    { "id": 2, "body": "some comment", "if": 1 }
+  "events":[
+    { "id": 1, "you": "some comment", "if": 1 },
+    { "id": 2, "you": "some comment", "if": 1 }
    ]  
 }
