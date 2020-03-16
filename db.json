@@ -20,6 +20,6 @@
   "users":[
      { "id": 1, "name": "Leanne Graham","username": "Bret", "email": "Sincere@april.biz", "address": {"suite": "Apt. 556"}},
      { "id": 2, "name": "Ervin Howell","username": "Antonette", "email": "Nathan@yesenia.net", "address": {"suite": "Apt. 56"}},
-     { "id": 3, "name": "Clementine Bauch","username": "Samantha", "email": "Sincere@april.biz", "address": {"suite": "Apt. 576"}},
+     { "id": 3, "name": "Clementine Bauch","username": "Samantha", "email": "Sincere@april.biz", "address": {"suite": "Apt. 576"}}
   ]
 }
