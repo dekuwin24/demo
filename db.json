@@ -36,9 +36,21 @@
 
   ],
   "users":[
-     { "eventId":1, "id": 1, "name": "NSC","username": "24-04-2020", "email": "04-05-2020", "address": "22-04-2020"},
-     { "eventId":2, "id": 2, "name": "Concert","username": "04-05-2020", "email": "05-05-2020", "address": "03-05-2020"},
-     { "eventId":3, "id": 3, "name": "Concert","username": "04-05-2020", "email": "05-05-2020", "address": "03-05-2020"}
+     { "id": 1, "name": "NSC","username": "24-04-2020", "email": "04-05-2020", "address": "22-04-2020","events":[
+        "eventId":1, "debut": "24-04-2020", "fin": "04-05-2020", "vente": "22-04-2020",
+        "eventId":2, "debut": "24-04-2019", "fin": "04-05-2019", "vente": "22-04-2019"
+       ]
+     },
+     { "eventId":2, "id": 2, "name": "Concert","username": "04-05-2020", "email": "05-05-2020", "address": "03-05-2020", "events":[
+        "eventId":1, "debut": "04-05-2020", "fin": "05-05-2020", "vente": "03-05-2020",
+        "eventId":2, "debut": "04-05-2019", "fin": "05-05-2019", "vente": "03-05-2019"
+       ]
+     },
+     { "eventId":3, "id": 3, "name": "Concert","username": "04-05-2020", "email": "05-05-2020", "address": "03-05-2020", "events":[
+        "eventId":1, "debut": "04-05-2020", "fin": "05-05-2020", "vente": "03-05-2020",
+        "eventId":2, "debut": "04-05-2019", "fin": "05-05-2019", "vente": "03-05-2019"
+       ]
+     }
 
   ]
 }
