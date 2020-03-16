@@ -13,10 +13,26 @@
   },
   "events":[
      { "id": 1, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", 
-      "tickets":[{"id":1, "color":"blue", "price":"orange"}]
+      "tickets":[
+        {"id":1, "color":"blue", "price":"500"},
+        {"id":2, "color":"orange", "price":"5000"},
+        {"id":3, "color":"white", "price":"1000"}
+      ]
      },
-     { "id": 2, "debut": "01-05-2020", "fin": "24-05-2020", "vente": "03-05-2020", "color": "blue", "price": "100", "number": "4"},
-     { "id": 3, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", "color": "", "price": "", "number": ""}
+     { "id": 2, "debut": "01-05-2020", "fin": "24-05-2020", "vente": "03-05-2020",
+      "tickets":[
+        {"id":1, "color":"blue", "price":"5000"},
+        {"id":2, "color":"orange", "price":"50000"},
+        {"id":3, "color":"white", "price":"10000"}
+      ]
+     },
+     { "id": 3, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", 
+      "tickets":[
+        {"id":1, "color":"blue", "price":"500"},
+        {"id":2, "color":"orange", "price":"5000"},
+        {"id":3, "color":"", "price":""}
+      ]
+     }
 
   ],
   "users":[
