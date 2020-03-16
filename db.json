@@ -21,7 +21,7 @@
      },
      { "id": 2, "debut": "01-05-2020", "fin": "24-05-2020", "vente": "03-05-2020",
       "tickets":[
-        {"id":1, "color":"blue", "price":"5000"},
+        {"id":1, "color":"blue", "price":"500"},
         {"id":2, "color":"orange", "price":"50000"},
         {"id":3, "color":"white", "price":"10000"}
       ]
