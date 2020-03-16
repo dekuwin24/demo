@@ -12,7 +12,9 @@
     "name": "typicode"
   },
   "events":[
-     { "id": 1, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", "color": "orange", "price": "5000", "number": "3"},
+     { "id": 1, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", 
+      "tickets":[{"id":1, "color":"blue", "price":"orange"}]
+     },
      { "id": 2, "debut": "01-05-2020", "fin": "24-05-2020", "vente": "03-05-2020", "color": "blue", "price": "100", "number": "4"},
      { "id": 3, "debut": "01-04-2020", "fin": "24-04-2020", "vente": "03-04-2020", "color": "", "price": "", "number": ""}
 
