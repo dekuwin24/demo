@@ -37,13 +37,13 @@
   ],
   "users":[
      { "id": 1, "name": "NSC","username": "24-04-2020", "email": "04-05-2020", "address": "22-04-2020",
-      "events":{ "debut":"24-04-2020", "fin":"04-05-2020", "vente":"23-04-2020" }
+      "events":{ "debut":"24-04-2020", "fin":"04-05-2020", "vente":"23-04-2020", "status":"Pas commencée" }
     },
       { "id": 2, "name": "Concert","username": "04-05-2020", "email": "05-05-2020", "address": "03-04-2020",
-      "events":{ "debut":"24-04-2019", "fin":"04-05-2019", "vente":"23-04-2019" }
+      "events":{ "debut":"24-04-2019", "fin":"04-05-2019", "vente":"23-04-2019","status":"Passée"}
     },
      { "id": 3, "name": "Something","username": "24-04-2020", "email": "04-05-2020", "address": "22-04-2020",
-      "events":{ "debut":"24-04-2020", "fin":"04-05-2020", "vente":"23-04-2020" }
+      "events":{ "debut":"24-04-2020", "fin":"04-05-2020", "vente":"23-04-2020", "status":"Pas commencée" }
     }
   ]
 }
