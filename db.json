@@ -68,7 +68,7 @@
             {"id":1, "color":"blue", "price":"500"},
             {"id":2, "color":"orange", "price":"5000"},
             {"id":3, "color":"white", "price":"1000"}
-          ],
+          ]
         }
       ], 
       "contacts":[ 
