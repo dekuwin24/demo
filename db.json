@@ -62,10 +62,7 @@
       "events":[ 
          {"id":1, "debut":"30-04-2020", "fin":"06-05-2020", "vente":"25-04-2020", "status":"Pas commencée"}
       ],"contacts":[ 
-        {"id":1, "date":"01-05-020", "msisdn":"99-77-20", "price":"1000", "status":"non scanner"},
-        {"id":2, "date":"01-05-020", "msisdn":"94-99-50", "price":"1000", "status":"non scanner"},
-        {"id":3, "date":"01-05-020", "msisdn":"95-99-53", "price":"1000", "status":"non scanner"},
-        {"id":4, "date":"01-05-020", "msisdn":"96-00-03", "price":"1000", "status":"non scanner"}
+        {"id":1, "date":" ", "msisdn":" ", "price":" ", "status":" "}
       ]
     }
   ]
