@@ -40,7 +40,11 @@
       "events":[ 
         {"id":1, "debut":"24-04-2020", "fin":"04-05-2020", "vente":"20-04-2020", "status":"Pas commencée"},
         {"id":2, "debut":"24-04-2019", "fin":"04-05-2019", "vente":"23-04-2019", "status":"Passée"}
-      ], "contacts":[ 
+      ], "tickets":[
+        {"id":1, "color":"blue", "price":"500"},
+        {"id":2, "color":"black", "price":"5000"},
+        {"id":3, "color":"orange", "price":"1000"}
+      ],"contacts":[ 
         {"id":1, "date":"20-04-020", "msisdn":"99-77-20", "price":"500", "status":"non scanner"},
         {"id":2, "date":"21-04-020", "msisdn":"94-99-50", "price":"500", "status":"non scanner"},
         {"id":3, "date":"21-04-020", "msisdn":"95-99-53", "price":"1000", "status":"non scanner"},
@@ -51,6 +55,10 @@
       { "id": 2, "name": "Concert","title": "Concert", "dateBegin": "04-05-2020","username": "04-05-2020", "dateEnd": "05-05-2020", "email": "05-05-2020", "address": "03-04-2020",  "datedSell": "03-04-2020",
       "events":[ 
         {"id":1, "debut":"04-05-2019", "fin":"05-05-2019", "vente":"01-05-2019","status":"Passée"}
+      ],"tickets":[
+        {"id":1, "color":"blue", "price":"500"},
+        {"id":2, "color":"orange", "price":"5000"},
+        {"id":3, "color":"white", "price":"1000"}
       ], "contacts":[ 
         {"id":1, "date":"01-05-020", "msisdn":"99-77-20", "price":"1000", "status":"non scanner"},
         {"id":2, "date":"01-05-020", "msisdn":"94-99-50", "price":"1000", "status":"non scanner"},
@@ -61,7 +69,9 @@
      { "id": 3, "name": "Something","title": "Something", "dateBegin": "30-04-2020","username": "04-05-2020", "dateEnd": "06-05-2020", "email": "05-05-2020", "address": "03-04-2020",  "datedSell": "25-04-2020",
       "events":[ 
          {"id":1, "debut":"30-04-2020", "fin":"06-05-2020", "vente":"25-04-2020", "status":"Pas commencée"}
-      ],"contacts":[ 
+      ], "tickets":[
+        {"id":1, "color":" ", "price":" "}
+      ], "contacts":[ 
         {"id":1, "date":" ", "msisdn":" ", "price":" ", "status":" "}
       ]
     }
